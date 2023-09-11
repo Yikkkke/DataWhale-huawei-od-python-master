@@ -2,7 +2,7 @@
 # encoding: utf-8
 """
 @author: HuRuiFeng
-@file: 217_Alibaba-looks-for-gold-treasure-chests-1.py
+@file: 217_Alibaba-looks-for-gold-treasure-chests-001.py
 @time: 2023/7/23 0:38
 @project: huawei-od-python
 @desc: 217 阿里巴巴找黄金宝箱（1）

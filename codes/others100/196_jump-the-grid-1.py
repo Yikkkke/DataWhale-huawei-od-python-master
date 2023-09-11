@@ -2,7 +2,7 @@
 # encoding: utf-8
 """
 @author: HuRuiFeng
-@file: 196_jump-the-grid-1.py
+@file: 196_jump-the-grid-001.py
 @time: 2023/8/27 1:32
 @project: huawei-od-python
 @desc: 196 跳格子（1）

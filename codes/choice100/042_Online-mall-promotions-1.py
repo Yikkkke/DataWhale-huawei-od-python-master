@@ -2,7 +2,7 @@
 # encoding: utf-8
 """
 @author: HuRuiFeng
-@file: 042_Online-mall-promotions-1.py
+@file: 042_Online-mall-promotions-001.py
 @time: 2023/8/2 11:38
 @project: huawei-od-python
 @desc: 042 网上商城优惠活动（一）
